@@ -14,5 +14,5 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: momow
-        path: /home/user/ID/g1.svgh
+        path: /home/user/ID/g1.svg
     
